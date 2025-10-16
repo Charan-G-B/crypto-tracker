@@ -1,9 +1,9 @@
 💰 Crypto Tracker — API-Integrated Web App
 🌐 Live Demo
 
-Frontend: https://your-frontend-link.vercel.app
+Frontend: crypto-tracker-five-blue.vercel.app
 
-Backend API: https://your-backend-link.onrender.com
+Backend API: https://crypto-tracker-uob8.onrender.com
 
 🧩 Problem Statement
 
@@ -70,7 +70,7 @@ Database → Supabase Cloud
 
 🧭 Steps to Run the Project Locally
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/crypto-tracker.git
+git clone https://github.com/Charan-G-B/crypto-tracker.git
 cd crypto-tracker
 
 2️⃣ Install Dependencies
@@ -85,8 +85,8 @@ npm install
 
 Create a .env file inside the /backend folder:
 
-SUPABASE_URL=https://your-supabase-url.supabase.co
-SUPABASE_KEY=your-supabase-service-role-key
+SUPABASE_URL=https://tuyhlgpxhnayzfsrdoky.supabase.co
+SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR1eWhsZ3B4aG5heXpmc3Jkb2t5Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2MDUwODA0NSwiZXhwIjoyMDc2MDg0MDQ1fQ.EIFF0vrbMiuLlq-_1mxlwWTq7AXeCBOH9SZbXvEYBxI
 PORT=5000
 
 4️⃣ Start the Backend Server
@@ -114,11 +114,11 @@ Home Page	Search Results
 
 🌍 Deployment Links
 Service	Link
-🌐 Frontend (Vercel)	https://your-frontend-link.vercel.app
+🌐 Frontend (Vercel)https://crypto-tracker-five-blue.vercel.app
 
-⚙️ Backend (Render)	https://your-backend-link.onrender.com
+⚙️ Backend (Render)	https://crypto-tracker-uob8.onrender.com
 
-🗃️ Database (Supabase)	https://app.supabase.com/project
+🗃️ Database (Supabase)	https://supabase.com/dashboard/project/tuyhlgpxhnayzfsrdoky
 🧠 Features Summary
 
 ✅ Real-time crypto data (CoinGecko API)
