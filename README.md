@@ -85,9 +85,8 @@ npm install
 
 Create a .env file inside the /backend folder:
 
-SUPABASE_URL=https://tuyhlgpxhnayzfsrdoky.supabase.co
-SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR1eWhsZ3B4aG5heXpmc3Jkb2t5Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2MDUwODA0NSwiZXhwIjoyMDc2MDg0MDQ1fQ.EIFF0vrbMiuLlq-_1mxlwWTq7AXeCBOH9SZbXvEYBxI
-PORT=5000
+SUPABASE_URL=your-link
+SUPABASE_KEY=your-key
 
 4️⃣ Start the Backend Server
 cd backend
